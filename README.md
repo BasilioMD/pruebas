@@ -1,6 +1,3 @@
 # pruebas
-<<<<<<< HEAD
-Esto son mas pruebas
-=======
-Esto son pruebas
->>>>>>> iss53
+
+Creación de código Legacy
