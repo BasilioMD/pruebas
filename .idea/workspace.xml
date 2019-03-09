@@ -92,13 +92,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1552074617677</updated>
+<<<<<<< HEAD
       <workItem from="1552074620528" duration="1463000" />
       <workItem from="1552133091454" duration="839000" />
+=======
+      <workItem from="1552074620528" duration="1653000" />
+>>>>>>> Creando
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="2302000" />
+=======
+    <option name="totallyTimeSpent" value="1653000" />
+>>>>>>> Creando
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="0" width="1368" height="769" extended-state="6" />
