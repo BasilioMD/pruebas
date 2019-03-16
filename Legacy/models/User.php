@@ -1,10 +1,10 @@
 <?php
+
 /**
  * Class User
  * @author: bmd
  * @version: 1.0 08/03/19
  */
-
 abstract class User
 {
     private $id;
