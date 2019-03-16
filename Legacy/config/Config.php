@@ -6,6 +6,8 @@
  * @version: 1.0 08/03/19
  */
 class DbConfig {
+
+
 	protected $serverName;
 	protected $userName;
 	protected $passCode;
