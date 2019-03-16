@@ -18,5 +18,4 @@ class DbConfig {
 		$this->dbName = 'nuevabd';
 	}
 }
-?>
 
